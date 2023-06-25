@@ -4,6 +4,6 @@ Pin: release n=trixie
 Pin-Priority: -1
 
 # Allow droidian-apt-config and droidian-upgrade-trixie itself
-Package: droidian-apt-config droidian-upgrade-trixie
+Package: droidian-apt-config droidian-apt-config-staging droidian-upgrade-trixie
 Pin: release n=trixie
 Pin-Priority: 2000
